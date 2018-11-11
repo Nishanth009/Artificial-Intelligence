@@ -1,6 +1,6 @@
 A neural network library
 
-Currently it implements a user defined mlp
+Can be used to implement an MLP
 
 Activation available : relu, tanh, sigmoid
 
